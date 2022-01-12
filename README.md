@@ -1,2 +1,2 @@
-# minicurso
-Minicurso do Catalisa - 2022 
+# Minicurso
+Minicurso do Catalisa - 2022
