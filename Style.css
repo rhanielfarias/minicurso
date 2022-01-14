@@ -24,12 +24,15 @@ height: 300 px;
 margin: 15 px 0;
 width: 300 px;}
 
-main > seton botton {
-background-color:#483d8b;
+main > section botton {
+background-color:#00bfff;
 border:none;
-border-radius:4px;
-color:with}
-font-family:euclideboud
-fonte-size:12px;
-font-
-;
+border-radius: 4px;
+color:white}
+font-family:euclidbolde
+fonte-size:18px;
+font-height: 500 px;
+letter spacing -0.6 px;
+line-height: 20 px;
+bext-trasform: uppercase;
+padding: 9px 23px}
