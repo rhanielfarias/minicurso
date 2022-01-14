@@ -26,6 +26,7 @@ width: 300 px;}
 
 main > section botton {
 background-color:#00bfff;
+bext-trasform: uppercase;
 border:none;
 border-radius: 4px;
 color:white}
@@ -34,5 +35,9 @@ fonte-size:18px;
 font-height: 500 px;
 letter spacing -0.6 px;
 line-height: 20 px;
-bext-trasform: uppercase;
 padding: 9px 23px}
+
+#detalhes-conteiner {
+font-weight: out;
+list-style-type:none;
+heignt: 30px;
