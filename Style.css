@@ -44,3 +44,9 @@ main > section button {
     list-style-type: none;
     width: 90%;
 }
+
+#detalhes-container > li {
+align-itens: daseline
+display: flex
+#detalhes-containers > li p
+color: green
